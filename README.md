@@ -1,5 +1,5 @@
 # MemoryPuzzle
 
-###A simple Memory game
+### A simple Memory game
 
-####Feel free to make improvements
+#### Feel free to make improvements
