@@ -2,4 +2,4 @@
 
 ### A simple Memory game
 
-#### Feel free to make improvements
+Feel free to make improvements
